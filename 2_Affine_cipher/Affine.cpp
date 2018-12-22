@@ -7,7 +7,7 @@
 */
 
 #include <iostream>
-#include <ctype.h>
+#include <ctype.h>  // isupper
 using namespace std;
 
 string encrypt(string in, int a, int b)

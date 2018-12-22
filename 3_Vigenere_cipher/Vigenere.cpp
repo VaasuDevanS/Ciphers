@@ -7,7 +7,6 @@
 
 #include <iostream>
 #include <cmath>    // abs
-#include <string.h> // strchr
 using namespace std;
 
 string encrypt(string input, string key)
