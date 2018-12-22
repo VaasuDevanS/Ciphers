@@ -4,6 +4,7 @@ mod26 restricts the encrypted characters as alphabets
 """
 __author__ = "Vaasudevan (github.com/VaasuDevanS)"
 __date__   = "Dec 13, 2018"
+__link__   = "http://crypto.interactive-maths.com/caesar-shift-cipher.html"
 
 def crypt(typ, sentence, key_value):
 

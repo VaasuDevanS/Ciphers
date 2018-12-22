@@ -3,6 +3,7 @@ Affine with mod26 Cipher function to encrypt and decrypt
 """
 __author__ = "Vaasudevan (github.com/VaasuDevanS)"
 __date__   = "Dec 20, 2018"
+__link__   = "http://crypto.interactive-maths.com/affine-cipher.html"
 
 
 def affine_cipher(typ, sentence, a, b):

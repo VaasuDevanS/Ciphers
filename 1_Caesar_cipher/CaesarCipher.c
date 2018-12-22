@@ -3,6 +3,7 @@
 * mod26 restricts the encrypted characters as alphabets
 * Author: Vaasudevan (github.com/VaasuDevanS)
 * Date: Dec 14, 2018
+* Link: http://crypto.interactive-maths.com/caesar-shift-cipher.html
 */
 
 #include <stdio.h>
