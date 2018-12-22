@@ -9,4 +9,4 @@ Link: http://crypto.interactive-maths.com/affine-cipher.html
 
 3. Vigenère_Cipher (poly-alphabetic)
 Link: http://crypto.interactive-maths.com/vigenegravere-cipher.html
-![](3_Vigenere_cipher/Demo.png?raw=True "Demo for Affine cipher")
+![](3_Vigenere_cipher/Demo.png?raw=True "Demo for Vigenère cipher")
