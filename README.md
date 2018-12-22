@@ -7,6 +7,6 @@ Link: http://crypto.interactive-maths.com/caesar-shift-cipher.html
 Link: http://crypto.interactive-maths.com/affine-cipher.html
 ![](2_Affine_cipher/Demo.png?raw=True "Demo for Affine cipher")
 
-3. Vigenère_Cipher (poly-alphabetic)
+3. Vigenère_Cipher (poly-alphabetic with key-phrase: "AWESOMECIPHER")
 Link: http://crypto.interactive-maths.com/vigenegravere-cipher.html
 ![](3_Vigenere_cipher/Demo.png?raw=True "Demo for Vigenère cipher")
